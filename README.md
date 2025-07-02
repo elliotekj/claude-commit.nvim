@@ -1,6 +1,8 @@
 # claude-commit.nvim (beta)
 
-AI-powered commit message suggestions using Claude.
+**AI-powered commit message suggestions using Claude.**
+
+[![claude-commit.nvim demo](https://asciinema.org/a/VsYjSywPmj5x2oRJke40pwJFh.svg)](https://asciinema.org/a/VsYjSywPmj5x2oRJke40pwJFh)
 
 ## Features
 
