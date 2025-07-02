@@ -1,6 +1,6 @@
 " claude-commit.vim - Neovim plugin for AI-powered commit messages
-" Author: [Your Name]
-" License: MIT
+" Author: Elliot Jackson
+" License: Apache License 2.0
 
 if exists('g:loaded_claude_commit')
   finish
